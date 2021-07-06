@@ -64,8 +64,7 @@ header{
     margin: 2% 5%;
 }
 .button-order {
-    background: linear-gradient(
-    100deg, #f3b970, #f944bd);
+    background: linear-gradient( 339deg, #12eaa5, #ffedf9, #e87ac4);
     padding: 18px 40px;
     border-radius: 50px;
     text-decoration: none;
