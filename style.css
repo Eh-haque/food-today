@@ -56,6 +56,9 @@ p{
 }
 /* recipi Start */
 .recipi-section{
+    background-image: url(images/shapes/recipi-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
     padding: 100px 0;
 }
 .my-recipies{
@@ -84,4 +87,19 @@ p{
     justify-content: space-around;
     background-color: rgb(255, 255, 255);
     box-shadow: 10px 10px 50px #f67d97;
+    text-align: center;
+}
+/* footer */
+footer{
+    text-align: center;
+    margin-top: 100px;
+    padding-bottom: 100px;
+    background-color: #0b0d17;
+}
+footer h2{
+    padding-top: 50px;
+    color: #f3b970;
+}
+footer p{
+    color: whitesmoke;
 }
