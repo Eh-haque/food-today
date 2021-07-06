@@ -94,7 +94,7 @@ p{
     background-image: url(images/food/Project\ Cover4.png);
     background-position: center;
     background-size: cover;
-    filter: drop-shadow(2px 4px 6px black);
+    background-attachment: fixed;
     color: white;
     padding: 100px 0;
     margin-top: 100px;
@@ -112,9 +112,8 @@ p{
     background-image: url(images/shapes/Frame\ 57.jpg);
     background-size: cover;
     text-align: center;
-    margin: 0 20%;
     padding: 100px 0;
-    margin: 100px 0;
+    margin: 0;
 }
 .half-width2{
     margin: auto;
@@ -133,12 +132,10 @@ form input{
 /* footer */
 footer{
     text-align: center;
-    margin-top: 100px;
-    padding-bottom: 100px;
+    padding: 50px;
     background-color: #0b0d17;
 }
 footer h2{
-    padding-top: 50px;
     color: #f3b970;
 }
 footer p{
