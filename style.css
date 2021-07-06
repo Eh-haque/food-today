@@ -88,7 +88,7 @@ header{
     background-image: url(images/shapes/recipi-bg.png);
     background-repeat: no-repeat;
     background-position: left;
-    padding: 100px 0;
+    padding-top: 100px;
 }
 .my-recipies{
     display: flex;
@@ -117,6 +117,8 @@ header{
     background-color: rgb(255, 255, 255);
     box-shadow: 10px 10px 50px #f67d97;
     text-align: center;
+    margin-top: 100px;
+    padding-top: 50px;
 }
 /* opening Hour */
 .oh-section {
