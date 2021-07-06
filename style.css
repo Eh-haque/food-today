@@ -70,6 +70,7 @@ header{
     text-decoration: none;
     font-size: 20px;
     margin-bottom: 61px;
+    border: 2px solid #f944bd;
 }
 /* About me Start */
 .about-me{
