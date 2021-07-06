@@ -20,8 +20,33 @@ p{
     font-size: 20px;
     margin-bottom: 50px;
 }
+a{
+    text-decoration: none;
+    color: #fc49c0;
+}
 .color-pink{
-    color: #f944bd;
+    color: #fc49c0;
+}
+/* header */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+nav ul{
+    display: flex;
+}
+nav ul li{
+    list-style: none;
+    margin: 0 1.5em;
+}
+/* healthy food */
+header{
+    background-color: white;
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+    width: 100%;
 }
 .helthy-food{
     background-image: url(images/shapes/Frame1.jpg);
@@ -141,3 +166,4 @@ footer h2{
 footer p{
     color: whitesmoke;
 }
+/* The End */
