@@ -80,6 +80,11 @@ header{
     display: flex;
     align-items: center;
 }
+.half-img{
+    width: 50%;
+    margin-top: 10%;
+    text-align: center;
+}
 .about-me img{
     width: 400px;
 }
@@ -170,6 +175,6 @@ footer h2{
     color: #f3b970;
 }
 footer p{
-    color: whitesmoke;
+    color: white;
 }
 /* The End */
