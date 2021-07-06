@@ -1,0 +1,87 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+}
+h1{
+    font-size: 52px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+    line-height: 0;
+}
+p{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.color-pink{
+    color: #f944bd;
+}
+.helthy-food{
+    background-image: url(images/shapes/Frame1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.half-width{
+    width: 50%;
+    margin: 2% 5%;
+}
+.button-order {
+    background: linear-gradient(
+    100deg, #f3b970, #f944bd);
+    padding: 18px 40px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-size: 20px;
+    margin-bottom: 61px;
+}
+/* About me Start */
+.about-me{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.about-me img{
+    width: 400px;
+}
+/* recipi Start */
+.recipi-section{
+    padding: 100px 0;
+}
+.my-recipies{
+    display: flex;
+    justify-content: space-evenly;
+}
+.recipi-info{
+    margin: 0 20%;
+    text-align: center;
+}
+.three-width img{
+    border-radius: 15px;
+}
+.three-width{
+    width: 20%;
+    padding: 20px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 50px #f67d97;
+}
+/* social-folower */
+.social-folower{
+    width: 85%;
+    margin: auto;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 10px 10px 50px #f67d97;
+}
